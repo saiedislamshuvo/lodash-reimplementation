@@ -4,7 +4,7 @@
 // => [1, 2, 3]
 
 const compact = (arr) => {
-    return arr.reduce((acc, cur, index) => {
+    return arr.reduce((acc, cur) => {
         return cur ? [...acc, cur] : [...acc];
     }, []);
 }

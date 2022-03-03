@@ -5,3 +5,4 @@
 ### Function Implemented
 - Chunk
 - Compact
+- Concat
