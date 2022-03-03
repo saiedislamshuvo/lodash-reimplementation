@@ -4,3 +4,4 @@
 
 ### Function Implemented
 - Chunk
+- Compact
