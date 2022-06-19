@@ -6,3 +6,8 @@
 - Chunk
 - Compact
 - Concat
+- Difference
+- Drop
+- Drop Right
+- Drop Right While
+- Drop While
